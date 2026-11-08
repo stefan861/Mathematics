@@ -44,3 +44,8 @@ The following files are also present in the repository. Their bibliographic titl
 ## Search terms
 
 mathematics, mathematical research, combinatorics, graph theory, graph colouring, unit-distance graphs, measurable colourings, geometric combinatorics, discrete geometry, matroid theory, Bergman fans, truncated Bergman fans, permutohedral varieties, nef cones, Minkowski weights, tropical geometry, algebraic geometry.
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
